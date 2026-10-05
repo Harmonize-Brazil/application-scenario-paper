@@ -56,13 +56,13 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1504000,Limoeiro do Ajuru,PA,ERA5-Land (Copernicus),precip_max,51,2025-12-14,epiweek,municipality,5.17678213119507,2025-12
 1504422,Marituba,PA,ERA5-Land (Copernicus),precip_max,51,2025-12-14,epiweek,municipality,4.04179382324219,2025-12
 1504604,Mocajuba,PA,ERA5-Land (Copernicus),precip_max,51,2025-12-14,epiweek,municipality,5.6149091720581,2025-12
-1504703,Moju,PA,ERA5-Land (Copernicus),precip_max,51,2025-12-14,epiweek,municipality,11.5422334671021,2025-12
+1504703,Moju,PA,ERA5-Land (Copernicus),precip_max,51,2025-12-14,epiweek,municipality,11.542233467102,2025-12
 1505064,Novo Repartimento,PA,ERA5-Land (Copernicus),precip_max,51,2025-12-14,epiweek,municipality,55.3895454406738,2025-12
 1505205,Oeiras do Pará,PA,ERA5-Land (Copernicus),precip_max,51,2025-12-14,epiweek,municipality,7.62264728546143,2025-12
 1506351,Santa Bárbara do Pará,PA,ERA5-Land (Copernicus),precip_max,51,2025-12-14,epiweek,municipality,3.63793659210205,2025-12
 1507953,Tailândia,PA,ERA5-Land (Copernicus),precip_max,51,2025-12-14,epiweek,municipality,17.8239822387695,2025-12
 1508100,Tucuruí,PA,ERA5-Land (Copernicus),precip_max,51,2025-12-14,epiweek,municipality,28.3093852996826,2025-12
-1500107,Abaetetuba,PA,ERA5-Land (Copernicus),precip_max,50,2025-12-07,epiweek,municipality,3.58955860137939,2025-12
+1500107,Abaetetuba,PA,ERA5-Land (Copernicus),precip_max,50,2025-12-07,epiweek,municipality,3.5895586013794,2025-12
 1500800,Ananindeua,PA,ERA5-Land (Copernicus),precip_max,50,2025-12-07,epiweek,municipality,2.84192276000977,2025-12
 1501105,Bagre,PA,ERA5-Land (Copernicus),precip_max,50,2025-12-07,epiweek,municipality,9.87064838409424,2025-12
 1501204,Baião,PA,ERA5-Land (Copernicus),precip_max,50,2025-12-07,epiweek,municipality,11.6941776275635,2025-12
@@ -95,7 +95,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1503093,Goianésia do Pará,PA,ERA5-Land (Copernicus),precip_max,49,2025-11-30,epiweek,municipality,11.1702680587769,2025-11
 1503309,Igarapé-Miri,PA,ERA5-Land (Copernicus),precip_max,49,2025-11-30,epiweek,municipality,5.71327638626099,2025-11
 1503804,Jacundá,PA,ERA5-Land (Copernicus),precip_max,49,2025-11-30,epiweek,municipality,8.80174350738525,2025-11
-1504000,Limoeiro do Ajuru,PA,ERA5-Land (Copernicus),precip_max,49,2025-11-30,epiweek,municipality,5.77241182327271,2025-11
+1504000,Limoeiro do Ajuru,PA,ERA5-Land (Copernicus),precip_max,49,2025-11-30,epiweek,municipality,5.7724118232727,2025-11
 1504422,Marituba,PA,ERA5-Land (Copernicus),precip_max,49,2025-11-30,epiweek,municipality,5.93813037872315,2025-11
 1504604,Mocajuba,PA,ERA5-Land (Copernicus),precip_max,49,2025-11-30,epiweek,municipality,6.05666637420654,2025-11
 1504703,Moju,PA,ERA5-Land (Copernicus),precip_max,49,2025-11-30,epiweek,municipality,8.19045257568359,2025-11
@@ -212,7 +212,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1500107,Abaetetuba,PA,ERA5-Land (Copernicus),precip_max,43,2025-10-19,epiweek,municipality,3.64071035385132,2025-10
 1500800,Ananindeua,PA,ERA5-Land (Copernicus),precip_max,43,2025-10-19,epiweek,municipality,5.83381605148315,2025-10
 1501105,Bagre,PA,ERA5-Land (Copernicus),precip_max,43,2025-10-19,epiweek,municipality,9.94010925292969,2025-10
-1501204,Baião,PA,ERA5-Land (Copernicus),precip_max,43,2025-10-19,epiweek,municipality,6.50041532516479,2025-10
+1501204,Baião,PA,ERA5-Land (Copernicus),precip_max,43,2025-10-19,epiweek,municipality,6.5004153251648,2025-10
 1501303,Barcarena,PA,ERA5-Land (Copernicus),precip_max,43,2025-10-19,epiweek,municipality,1.47647857666016,2025-10
 1501402,Belém,PA,ERA5-Land (Copernicus),precip_max,43,2025-10-19,epiweek,municipality,5.87398958206177,2025-10
 1501501,Benevides,PA,ERA5-Land (Copernicus),precip_max,43,2025-10-19,epiweek,municipality,7.43931198120117,2025-10
@@ -263,7 +263,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1503093,Goianésia do Pará,PA,ERA5-Land (Copernicus),precip_max,41,2025-10-05,epiweek,municipality,5.7743935585022,2025-10
 1503309,Igarapé-Miri,PA,ERA5-Land (Copernicus),precip_max,41,2025-10-05,epiweek,municipality,6.02889966964722,2025-10
 1503804,Jacundá,PA,ERA5-Land (Copernicus),precip_max,41,2025-10-05,epiweek,municipality,6.30547094345093,2025-10
-1504000,Limoeiro do Ajuru,PA,ERA5-Land (Copernicus),precip_max,41,2025-10-05,epiweek,municipality,3.66292285919189,2025-10
+1504000,Limoeiro do Ajuru,PA,ERA5-Land (Copernicus),precip_max,41,2025-10-05,epiweek,municipality,3.6629228591919,2025-10
 1504422,Marituba,PA,ERA5-Land (Copernicus),precip_max,41,2025-10-05,epiweek,municipality,5.06173086166382,2025-10
 1504604,Mocajuba,PA,ERA5-Land (Copernicus),precip_max,41,2025-10-05,epiweek,municipality,7.47666645050049,2025-10
 1504703,Moju,PA,ERA5-Land (Copernicus),precip_max,41,2025-10-05,epiweek,municipality,6.73789691925049,2025-10
@@ -371,7 +371,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1504000,Limoeiro do Ajuru,PA,ERA5-Land (Copernicus),precip_max,36,2025-08-31,epiweek,municipality,4.15917778015137,2025-08
 1504422,Marituba,PA,ERA5-Land (Copernicus),precip_max,36,2025-08-31,epiweek,municipality,3.42245626449585,2025-08
 1504604,Mocajuba,PA,ERA5-Land (Copernicus),precip_max,36,2025-08-31,epiweek,municipality,1.70698165893555,2025-08
-1504703,Moju,PA,ERA5-Land (Copernicus),precip_max,36,2025-08-31,epiweek,municipality,3.38004589080811,2025-08
+1504703,Moju,PA,ERA5-Land (Copernicus),precip_max,36,2025-08-31,epiweek,municipality,3.3800458908081,2025-08
 1505064,Novo Repartimento,PA,ERA5-Land (Copernicus),precip_max,36,2025-08-31,epiweek,municipality,2.26783728599548,2025-08
 1505205,Oeiras do Pará,PA,ERA5-Land (Copernicus),precip_max,36,2025-08-31,epiweek,municipality,4.7980785369873,2025-08
 1506351,Santa Bárbara do Pará,PA,ERA5-Land (Copernicus),precip_max,36,2025-08-31,epiweek,municipality,4.33022022247315,2025-08
@@ -401,7 +401,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1500107,Abaetetuba,PA,ERA5-Land (Copernicus),precip_max,34,2025-08-17,epiweek,municipality,3.53766703605652,2025-08
 1500800,Ananindeua,PA,ERA5-Land (Copernicus),precip_max,34,2025-08-17,epiweek,municipality,11.8026628494263,2025-08
 1501105,Bagre,PA,ERA5-Land (Copernicus),precip_max,34,2025-08-17,epiweek,municipality,8.80430603027344,2025-08
-1501204,Baião,PA,ERA5-Land (Copernicus),precip_max,34,2025-08-17,epiweek,municipality,2.49785184860229,2025-08
+1501204,Baião,PA,ERA5-Land (Copernicus),precip_max,34,2025-08-17,epiweek,municipality,2.4978518486023,2025-08
 1501303,Barcarena,PA,ERA5-Land (Copernicus),precip_max,34,2025-08-17,epiweek,municipality,4.74889278411865,2025-08
 1501402,Belém,PA,ERA5-Land (Copernicus),precip_max,34,2025-08-17,epiweek,municipality,11.8026628494263,2025-08
 1501501,Benevides,PA,ERA5-Land (Copernicus),precip_max,34,2025-08-17,epiweek,municipality,13.9352655410767,2025-08
@@ -412,7 +412,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1503804,Jacundá,PA,ERA5-Land (Copernicus),precip_max,34,2025-08-17,epiweek,municipality,1.53207504749298,2025-08
 1504000,Limoeiro do Ajuru,PA,ERA5-Land (Copernicus),precip_max,34,2025-08-17,epiweek,municipality,4.58683061599731,2025-08
 1504422,Marituba,PA,ERA5-Land (Copernicus),precip_max,34,2025-08-17,epiweek,municipality,11.9515924453735,2025-08
-1504604,Mocajuba,PA,ERA5-Land (Copernicus),precip_max,34,2025-08-17,epiweek,municipality,3.96974372863769,2025-08
+1504604,Mocajuba,PA,ERA5-Land (Copernicus),precip_max,34,2025-08-17,epiweek,municipality,3.9697437286377,2025-08
 1504703,Moju,PA,ERA5-Land (Copernicus),precip_max,34,2025-08-17,epiweek,municipality,3.72362613677979,2025-08
 1505064,Novo Repartimento,PA,ERA5-Land (Copernicus),precip_max,34,2025-08-17,epiweek,municipality,1.54306745529175,2025-08
 1505205,Oeiras do Pará,PA,ERA5-Land (Copernicus),precip_max,34,2025-08-17,epiweek,municipality,5.77584648132324,2025-08
@@ -722,7 +722,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1501501,Benevides,PA,ERA5-Land (Copernicus),precip_max,19,2025-05-04,epiweek,municipality,24.2268028259277,2025-05
 1501782,Breu Branco,PA,ERA5-Land (Copernicus),precip_max,19,2025-05-04,epiweek,municipality,11.0666933059692,2025-05
 1502103,Cametá,PA,ERA5-Land (Copernicus),precip_max,19,2025-05-04,epiweek,municipality,12.6432180404663,2025-05
-1503093,Goianésia do Pará,PA,ERA5-Land (Copernicus),precip_max,19,2025-05-04,epiweek,municipality,11.6674776077271,2025-05
+1503093,Goianésia do Pará,PA,ERA5-Land (Copernicus),precip_max,19,2025-05-04,epiweek,municipality,11.667477607727,2025-05
 1503309,Igarapé-Miri,PA,ERA5-Land (Copernicus),precip_max,19,2025-05-04,epiweek,municipality,13.0481452941895,2025-05
 1503804,Jacundá,PA,ERA5-Land (Copernicus),precip_max,19,2025-05-04,epiweek,municipality,9.2450704574585,2025-05
 1504000,Limoeiro do Ajuru,PA,ERA5-Land (Copernicus),precip_max,19,2025-05-04,epiweek,municipality,12.6432180404663,2025-05
@@ -1208,7 +1208,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1503093,Goianésia do Pará,PA,ERA5-Land (Copernicus),precip_max,48,2024-11-24,epiweek,municipality,13.1053771972656,2024-11
 1503309,Igarapé-Miri,PA,ERA5-Land (Copernicus),precip_max,48,2024-11-24,epiweek,municipality,6.4259557723999,2024-11
 1503804,Jacundá,PA,ERA5-Land (Copernicus),precip_max,48,2024-11-24,epiweek,municipality,6.22358894348145,2024-11
-1504000,Limoeiro do Ajuru,PA,ERA5-Land (Copernicus),precip_max,48,2024-11-24,epiweek,municipality,2.40843009948731,2024-11
+1504000,Limoeiro do Ajuru,PA,ERA5-Land (Copernicus),precip_max,48,2024-11-24,epiweek,municipality,2.4084300994873,2024-11
 1504422,Marituba,PA,ERA5-Land (Copernicus),precip_max,48,2024-11-24,epiweek,municipality,8.31119728088379,2024-11
 1504604,Mocajuba,PA,ERA5-Land (Copernicus),precip_max,48,2024-11-24,epiweek,municipality,6.4259557723999,2024-11
 1504703,Moju,PA,ERA5-Land (Copernicus),precip_max,48,2024-11-24,epiweek,municipality,7.20112895965576,2024-11
@@ -1348,7 +1348,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1501105,Bagre,PA,ERA5-Land (Copernicus),precip_max,41,2024-10-06,epiweek,municipality,0.609993934631348,2024-10
 1501204,Baião,PA,ERA5-Land (Copernicus),precip_max,41,2024-10-06,epiweek,municipality,0.495783984661102,2024-10
 1501303,Barcarena,PA,ERA5-Land (Copernicus),precip_max,41,2024-10-06,epiweek,municipality,1.63073992729187,2024-10
-1501402,Belém,PA,ERA5-Land (Copernicus),precip_max,41,2024-10-06,epiweek,municipality,2.00358915328979,2024-10
+1501402,Belém,PA,ERA5-Land (Copernicus),precip_max,41,2024-10-06,epiweek,municipality,2.0035891532898,2024-10
 1501501,Benevides,PA,ERA5-Land (Copernicus),precip_max,41,2024-10-06,epiweek,municipality,1.48573672771454,2024-10
 1501782,Breu Branco,PA,ERA5-Land (Copernicus),precip_max,41,2024-10-06,epiweek,municipality,0.335940718650818,2024-10
 1502103,Cametá,PA,ERA5-Land (Copernicus),precip_max,41,2024-10-06,epiweek,municipality,0.690379679203033,2024-10
@@ -1371,7 +1371,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1501303,Barcarena,PA,ERA5-Land (Copernicus),precip_max,40,2024-09-29,epiweek,municipality,2.18325781822205,2024-09
 1501402,Belém,PA,ERA5-Land (Copernicus),precip_max,40,2024-09-29,epiweek,municipality,4.54169416427612,2024-09
 1501501,Benevides,PA,ERA5-Land (Copernicus),precip_max,40,2024-09-29,epiweek,municipality,4.54169416427612,2024-09
-1501782,Breu Branco,PA,ERA5-Land (Copernicus),precip_max,40,2024-09-29,epiweek,municipality,6.38884305953979,2024-09
+1501782,Breu Branco,PA,ERA5-Land (Copernicus),precip_max,40,2024-09-29,epiweek,municipality,6.3888430595398,2024-09
 1502103,Cametá,PA,ERA5-Land (Copernicus),precip_max,40,2024-09-29,epiweek,municipality,7.613450050354,2024-09
 1503093,Goianésia do Pará,PA,ERA5-Land (Copernicus),precip_max,40,2024-09-29,epiweek,municipality,7.17955827713013,2024-09
 1503309,Igarapé-Miri,PA,ERA5-Land (Copernicus),precip_max,40,2024-09-29,epiweek,municipality,7.64216470718384,2024-09
@@ -1401,7 +1401,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1504422,Marituba,PA,ERA5-Land (Copernicus),precip_max,39,2024-09-22,epiweek,municipality,1.63740158081055,2024-09
 1504604,Mocajuba,PA,ERA5-Land (Copernicus),precip_max,39,2024-09-22,epiweek,municipality,0.831452012062073,2024-09
 1504703,Moju,PA,ERA5-Land (Copernicus),precip_max,39,2024-09-22,epiweek,municipality,1.6369640827179,2024-09
-1505064,Novo Repartimento,PA,ERA5-Land (Copernicus),precip_max,39,2024-09-22,epiweek,municipality,2.26774930953979,2024-09
+1505064,Novo Repartimento,PA,ERA5-Land (Copernicus),precip_max,39,2024-09-22,epiweek,municipality,2.2677493095398,2024-09
 1505205,Oeiras do Pará,PA,ERA5-Land (Copernicus),precip_max,39,2024-09-22,epiweek,municipality,1.03933811187744,2024-09
 1506351,Santa Bárbara do Pará,PA,ERA5-Land (Copernicus),precip_max,39,2024-09-22,epiweek,municipality,1.54434382915497,2024-09
 1507953,Tailândia,PA,ERA5-Land (Copernicus),precip_max,39,2024-09-22,epiweek,municipality,0.689731180667877,2024-09
@@ -1631,7 +1631,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1504000,Limoeiro do Ajuru,PA,ERA5-Land (Copernicus),precip_max,28,2024-07-07,epiweek,municipality,8.60363006591797,2024-07
 1504422,Marituba,PA,ERA5-Land (Copernicus),precip_max,28,2024-07-07,epiweek,municipality,3.85985970497131,2024-07
 1504604,Mocajuba,PA,ERA5-Land (Copernicus),precip_max,28,2024-07-07,epiweek,municipality,5.23087072372437,2024-07
-1504703,Moju,PA,ERA5-Land (Copernicus),precip_max,28,2024-07-07,epiweek,municipality,4.41728544235229,2024-07
+1504703,Moju,PA,ERA5-Land (Copernicus),precip_max,28,2024-07-07,epiweek,municipality,4.4172854423523,2024-07
 1505064,Novo Repartimento,PA,ERA5-Land (Copernicus),precip_max,28,2024-07-07,epiweek,municipality,9.65580081939697,2024-07
 1505205,Oeiras do Pará,PA,ERA5-Land (Copernicus),precip_max,28,2024-07-07,epiweek,municipality,11.0779972076416,2024-07
 1506351,Santa Bárbara do Pará,PA,ERA5-Land (Copernicus),precip_max,28,2024-07-07,epiweek,municipality,6.16216325759888,2024-07
@@ -1696,7 +1696,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1504604,Mocajuba,PA,ERA5-Land (Copernicus),precip_max,25,2024-06-16,epiweek,municipality,0.669043362140656,2024-06
 1504703,Moju,PA,ERA5-Land (Copernicus),precip_max,25,2024-06-16,epiweek,municipality,2.11704874038696,2024-06
 1505064,Novo Repartimento,PA,ERA5-Land (Copernicus),precip_max,25,2024-06-16,epiweek,municipality,0.239602386951447,2024-06
-1505205,Oeiras do Pará,PA,ERA5-Land (Copernicus),precip_max,25,2024-06-16,epiweek,municipality,2.14549064636231,2024-06
+1505205,Oeiras do Pará,PA,ERA5-Land (Copernicus),precip_max,25,2024-06-16,epiweek,municipality,2.1454906463623,2024-06
 1506351,Santa Bárbara do Pará,PA,ERA5-Land (Copernicus),precip_max,25,2024-06-16,epiweek,municipality,2.74322533607483,2024-06
 1507953,Tailândia,PA,ERA5-Land (Copernicus),precip_max,25,2024-06-16,epiweek,municipality,0.867199003696442,2024-06
 1508100,Tucuruí,PA,ERA5-Land (Copernicus),precip_max,25,2024-06-16,epiweek,municipality,0.135949313640594,2024-06
@@ -2145,7 +2145,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1500800,Ananindeua,PA,ERA5-Land (Copernicus),precip_max,3,2024-01-14,epiweek,municipality,10.2071237564087,2024-01
 1501105,Bagre,PA,ERA5-Land (Copernicus),precip_max,3,2024-01-14,epiweek,municipality,8.31028079986572,2024-01
 1501204,Baião,PA,ERA5-Land (Copernicus),precip_max,3,2024-01-14,epiweek,municipality,2.97799706459045,2024-01
-1501303,Barcarena,PA,ERA5-Land (Copernicus),precip_max,3,2024-01-14,epiweek,municipality,6.60114717483521,2024-01
+1501303,Barcarena,PA,ERA5-Land (Copernicus),precip_max,3,2024-01-14,epiweek,municipality,6.6011471748352,2024-01
 1501402,Belém,PA,ERA5-Land (Copernicus),precip_max,3,2024-01-14,epiweek,municipality,11.6451005935669,2024-01
 1501501,Benevides,PA,ERA5-Land (Copernicus),precip_max,3,2024-01-14,epiweek,municipality,13.2166299819946,2024-01
 1501782,Breu Branco,PA,ERA5-Land (Copernicus),precip_max,3,2024-01-14,epiweek,municipality,6.68551301956177,2024-01
@@ -2500,14 +2500,14 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1508100,Tucuruí,PA,ERA5-Land (Copernicus),precip_max,39,2023-09-24,epiweek,municipality,0.428902715444565,2023-09
 1500107,Abaetetuba,PA,ERA5-Land (Copernicus),precip_max,38,2023-09-17,epiweek,municipality,1.98205053806305,2023-09
 1500800,Ananindeua,PA,ERA5-Land (Copernicus),precip_max,38,2023-09-17,epiweek,municipality,3.58718657493591,2023-09
-1501105,Bagre,PA,ERA5-Land (Copernicus),precip_max,38,2023-09-17,epiweek,municipality,3.41172599792481,2023-09
+1501105,Bagre,PA,ERA5-Land (Copernicus),precip_max,38,2023-09-17,epiweek,municipality,3.4117259979248,2023-09
 1501204,Baião,PA,ERA5-Land (Copernicus),precip_max,38,2023-09-17,epiweek,municipality,2.36546349525452,2023-09
 1501303,Barcarena,PA,ERA5-Land (Copernicus),precip_max,38,2023-09-17,epiweek,municipality,2.07302975654602,2023-09
 1501402,Belém,PA,ERA5-Land (Copernicus),precip_max,38,2023-09-17,epiweek,municipality,3.58718657493591,2023-09
 1501501,Benevides,PA,ERA5-Land (Copernicus),precip_max,38,2023-09-17,epiweek,municipality,3.87962007522583,2023-09
 1501782,Breu Branco,PA,ERA5-Land (Copernicus),precip_max,38,2023-09-17,epiweek,municipality,3.42472314834595,2023-09
 1502103,Cametá,PA,ERA5-Land (Copernicus),precip_max,38,2023-09-17,epiweek,municipality,4.52297401428223,2023-09
-1503093,Goianésia do Pará,PA,ERA5-Land (Copernicus),precip_max,38,2023-09-17,epiweek,municipality,2.93083524703979,2023-09
+1503093,Goianésia do Pará,PA,ERA5-Land (Copernicus),precip_max,38,2023-09-17,epiweek,municipality,2.9308352470398,2023-09
 1503309,Igarapé-Miri,PA,ERA5-Land (Copernicus),precip_max,38,2023-09-17,epiweek,municipality,4.52297401428223,2023-09
 1503804,Jacundá,PA,ERA5-Land (Copernicus),precip_max,38,2023-09-17,epiweek,municipality,1.98854899406433,2023-09
 1504000,Limoeiro do Ajuru,PA,ERA5-Land (Copernicus),precip_max,38,2023-09-17,epiweek,municipality,2.86584997177124,2023-09
@@ -2692,7 +2692,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1501105,Bagre,PA,ERA5-Land (Copernicus),precip_max,29,2023-07-16,epiweek,municipality,1.79554271697998,2023-07
 1501204,Baião,PA,ERA5-Land (Copernicus),precip_max,29,2023-07-16,epiweek,municipality,1.79554271697998,2023-07
 1501303,Barcarena,PA,ERA5-Land (Copernicus),precip_max,29,2023-07-16,epiweek,municipality,2.15905737876892,2023-07
-1501402,Belém,PA,ERA5-Land (Copernicus),precip_max,29,2023-07-16,epiweek,municipality,2.92464160919189,2023-07
+1501402,Belém,PA,ERA5-Land (Copernicus),precip_max,29,2023-07-16,epiweek,municipality,2.9246416091919,2023-07
 1501501,Benevides,PA,ERA5-Land (Copernicus),precip_max,29,2023-07-16,epiweek,municipality,2.1535496711731,2023-07
 1501782,Breu Branco,PA,ERA5-Land (Copernicus),precip_max,29,2023-07-16,epiweek,municipality,1.27780950069427,2023-07
 1502103,Cametá,PA,ERA5-Land (Copernicus),precip_max,29,2023-07-16,epiweek,municipality,1.20620810985565,2023-07
@@ -2700,7 +2700,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1503309,Igarapé-Miri,PA,ERA5-Land (Copernicus),precip_max,29,2023-07-16,epiweek,municipality,1.44304347038269,2023-07
 1503804,Jacundá,PA,ERA5-Land (Copernicus),precip_max,29,2023-07-16,epiweek,municipality,1.16765344142914,2023-07
 1504000,Limoeiro do Ajuru,PA,ERA5-Land (Copernicus),precip_max,29,2023-07-16,epiweek,municipality,1.28331732749939,2023-07
-1504422,Marituba,PA,ERA5-Land (Copernicus),precip_max,29,2023-07-16,epiweek,municipality,1.80105054378509,2023-07
+1504422,Marituba,PA,ERA5-Land (Copernicus),precip_max,29,2023-07-16,epiweek,municipality,1.8010505437851,2023-07
 1504604,Mocajuba,PA,ERA5-Land (Copernicus),precip_max,29,2023-07-16,epiweek,municipality,0.682967126369476,2023-07
 1504703,Moju,PA,ERA5-Land (Copernicus),precip_max,29,2023-07-16,epiweek,municipality,2.32979917526245,2023-07
 1505064,Novo Repartimento,PA,ERA5-Land (Copernicus),precip_max,29,2023-07-16,epiweek,municipality,1.79003477096558,2023-07
@@ -2718,7 +2718,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1501782,Breu Branco,PA,ERA5-Land (Copernicus),precip_max,28,2023-07-09,epiweek,municipality,3.92155313491821,2023-07
 1502103,Cametá,PA,ERA5-Land (Copernicus),precip_max,28,2023-07-09,epiweek,municipality,4.42827081680298,2023-07
 1503093,Goianésia do Pará,PA,ERA5-Land (Copernicus),precip_max,28,2023-07-09,epiweek,municipality,3.88299894332886,2023-07
-1503309,Igarapé-Miri,PA,ERA5-Land (Copernicus),precip_max,28,2023-07-09,epiweek,municipality,4.34565401077271,2023-07
+1503309,Igarapé-Miri,PA,ERA5-Land (Copernicus),precip_max,28,2023-07-09,epiweek,municipality,4.3456540107727,2023-07
 1503804,Jacundá,PA,ERA5-Land (Copernicus),precip_max,28,2023-07-09,epiweek,municipality,2.26921343803406,2023-07
 1504000,Limoeiro do Ajuru,PA,ERA5-Land (Copernicus),precip_max,28,2023-07-09,epiweek,municipality,2.93565702438354,2023-07
 1504422,Marituba,PA,ERA5-Land (Copernicus),precip_max,28,2023-07-09,epiweek,municipality,1.77901923656464,2023-07
@@ -3436,7 +3436,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1503804,Jacundá,PA,ERA5-Land (Copernicus),precip_max,46,2022-11-13,epiweek,municipality,15.3387231826782,2022-11
 1504000,Limoeiro do Ajuru,PA,ERA5-Land (Copernicus),precip_max,46,2022-11-13,epiweek,municipality,3.7145254611969,2022-11
 1504422,Marituba,PA,ERA5-Land (Copernicus),precip_max,46,2022-11-13,epiweek,municipality,6.39227914810181,2022-11
-1504604,Mocajuba,PA,ERA5-Land (Copernicus),precip_max,46,2022-11-13,epiweek,municipality,5.30744600296021,2022-11
+1504604,Mocajuba,PA,ERA5-Land (Copernicus),precip_max,46,2022-11-13,epiweek,municipality,5.3074460029602,2022-11
 1504703,Moju,PA,ERA5-Land (Copernicus),precip_max,46,2022-11-13,epiweek,municipality,4.68263626098633,2022-11
 1505064,Novo Repartimento,PA,ERA5-Land (Copernicus),precip_max,46,2022-11-13,epiweek,municipality,12.4893188476562,2022-11
 1505205,Oeiras do Pará,PA,ERA5-Land (Copernicus),precip_max,46,2022-11-13,epiweek,municipality,6.18629837036133,2022-11
@@ -3705,7 +3705,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1501782,Breu Branco,PA,ERA5-Land (Copernicus),precip_max,33,2022-08-14,epiweek,municipality,2.07314395904541,2022-08
 1502103,Cametá,PA,ERA5-Land (Copernicus),precip_max,33,2022-08-14,epiweek,municipality,2.85006999969482,2022-08
 1503093,Goianésia do Pará,PA,ERA5-Land (Copernicus),precip_max,33,2022-08-14,epiweek,municipality,2.07314395904541,2022-08
-1503309,Igarapé-Miri,PA,ERA5-Land (Copernicus),precip_max,33,2022-08-14,epiweek,municipality,2.25831794738769,2022-08
+1503309,Igarapé-Miri,PA,ERA5-Land (Copernicus),precip_max,33,2022-08-14,epiweek,municipality,2.2583179473877,2022-08
 1503804,Jacundá,PA,ERA5-Land (Copernicus),precip_max,33,2022-08-14,epiweek,municipality,0.772900283336639,2022-08
 1504000,Limoeiro do Ajuru,PA,ERA5-Land (Copernicus),precip_max,33,2022-08-14,epiweek,municipality,2.29052209854126,2022-08
 1504422,Marituba,PA,ERA5-Land (Copernicus),precip_max,33,2022-08-14,epiweek,municipality,1.98055708408356,2022-08
@@ -3941,7 +3941,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1504000,Limoeiro do Ajuru,PA,ERA5-Land (Copernicus),precip_max,22,2022-05-29,epiweek,municipality,11.5956745147705,2022-05
 1504422,Marituba,PA,ERA5-Land (Copernicus),precip_max,22,2022-05-29,epiweek,municipality,18.9357814788818,2022-05
 1504604,Mocajuba,PA,ERA5-Land (Copernicus),precip_max,22,2022-05-29,epiweek,municipality,8.09154415130615,2022-05
-1504703,Moju,PA,ERA5-Land (Copernicus),precip_max,22,2022-05-29,epiweek,municipality,14.6516141891479,2022-05
+1504703,Moju,PA,ERA5-Land (Copernicus),precip_max,22,2022-05-29,epiweek,municipality,14.651614189148,2022-05
 1505064,Novo Repartimento,PA,ERA5-Land (Copernicus),precip_max,22,2022-05-29,epiweek,municipality,21.1524982452393,2022-05
 1505205,Oeiras do Pará,PA,ERA5-Land (Copernicus),precip_max,22,2022-05-29,epiweek,municipality,16.4227104187012,2022-05
 1506351,Santa Bárbara do Pará,PA,ERA5-Land (Copernicus),precip_max,22,2022-05-29,epiweek,municipality,20.7905006408691,2022-05
@@ -4680,7 +4680,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1505064,Novo Repartimento,PA,ERA5-Land (Copernicus),precip_max,39,2021-09-26,epiweek,municipality,11.2864475250244,2021-09
 1505205,Oeiras do Pará,PA,ERA5-Land (Copernicus),precip_max,39,2021-09-26,epiweek,municipality,8.99201011657715,2021-09
 1506351,Santa Bárbara do Pará,PA,ERA5-Land (Copernicus),precip_max,39,2021-09-26,epiweek,municipality,8.96469497680664,2021-09
-1507953,Tailândia,PA,ERA5-Land (Copernicus),precip_max,39,2021-09-26,epiweek,municipality,12.2697782516479,2021-09
+1507953,Tailândia,PA,ERA5-Land (Copernicus),precip_max,39,2021-09-26,epiweek,municipality,12.269778251648,2021-09
 1508100,Tucuruí,PA,ERA5-Land (Copernicus),precip_max,39,2021-09-26,epiweek,municipality,11.8982982635498,2021-09
 1500107,Abaetetuba,PA,ERA5-Land (Copernicus),precip_max,38,2021-09-19,epiweek,municipality,7.48969984054565,2021-09
 1500800,Ananindeua,PA,ERA5-Land (Copernicus),precip_max,38,2021-09-19,epiweek,municipality,5.82896375656128,2021-09
@@ -4728,7 +4728,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1500800,Ananindeua,PA,ERA5-Land (Copernicus),precip_max,36,2021-09-05,epiweek,municipality,7.41321849822998,2021-09
 1501105,Bagre,PA,ERA5-Land (Copernicus),precip_max,36,2021-09-05,epiweek,municipality,4.22832107543945,2021-09
 1501204,Baião,PA,ERA5-Land (Copernicus),precip_max,36,2021-09-05,epiweek,municipality,2.79702877998352,2021-09
-1501303,Barcarena,PA,ERA5-Land (Copernicus),precip_max,36,2021-09-05,epiweek,municipality,7.00896024703979,2021-09
+1501303,Barcarena,PA,ERA5-Land (Copernicus),precip_max,36,2021-09-05,epiweek,municipality,7.0089602470398,2021-09
 1501402,Belém,PA,ERA5-Land (Copernicus),precip_max,36,2021-09-05,epiweek,municipality,7.41321849822998,2021-09
 1501501,Benevides,PA,ERA5-Land (Copernicus),precip_max,36,2021-09-05,epiweek,municipality,7.47877359390259,2021-09
 1501782,Breu Branco,PA,ERA5-Land (Copernicus),precip_max,36,2021-09-05,epiweek,municipality,2.88443565368652,2021-09
@@ -5574,7 +5574,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1501782,Breu Branco,PA,ERA5-Land (Copernicus),precip_max,49,2020-11-29,epiweek,municipality,4.79309320449829,2020-11
 1502103,Cametá,PA,ERA5-Land (Copernicus),precip_max,49,2020-11-29,epiweek,municipality,11.2801923751831,2020-11
 1503093,Goianésia do Pará,PA,ERA5-Land (Copernicus),precip_max,49,2020-11-29,epiweek,municipality,5.04394626617432,2020-11
-1503309,Igarapé-Miri,PA,ERA5-Land (Copernicus),precip_max,49,2020-11-29,epiweek,municipality,9.30318164825439,2020-11
+1503309,Igarapé-Miri,PA,ERA5-Land (Copernicus),precip_max,49,2020-11-29,epiweek,municipality,9.3031816482544,2020-11
 1503804,Jacundá,PA,ERA5-Land (Copernicus),precip_max,49,2020-11-29,epiweek,municipality,5.04394626617432,2020-11
 1504000,Limoeiro do Ajuru,PA,ERA5-Land (Copernicus),precip_max,49,2020-11-29,epiweek,municipality,10.2457485198975,2020-11
 1504422,Marituba,PA,ERA5-Land (Copernicus),precip_max,49,2020-11-29,epiweek,municipality,5.24936056137085,2020-11
@@ -5619,7 +5619,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1503309,Igarapé-Miri,PA,ERA5-Land (Copernicus),precip_max,47,2020-11-15,epiweek,municipality,13.2949151992798,2020-11
 1503804,Jacundá,PA,ERA5-Land (Copernicus),precip_max,47,2020-11-15,epiweek,municipality,114.763496398926,2020-11
 1504000,Limoeiro do Ajuru,PA,ERA5-Land (Copernicus),precip_max,47,2020-11-15,epiweek,municipality,15.831241607666,2020-11
-1504422,Marituba,PA,ERA5-Land (Copernicus),precip_max,47,2020-11-15,epiweek,municipality,12.2502412796021,2020-11
+1504422,Marituba,PA,ERA5-Land (Copernicus),precip_max,47,2020-11-15,epiweek,municipality,12.250241279602,2020-11
 1504604,Mocajuba,PA,ERA5-Land (Copernicus),precip_max,47,2020-11-15,epiweek,municipality,13.6691274642944,2020-11
 1504703,Moju,PA,ERA5-Land (Copernicus),precip_max,47,2020-11-15,epiweek,municipality,26.0856857299805,2020-11
 1505064,Novo Repartimento,PA,ERA5-Land (Copernicus),precip_max,47,2020-11-15,epiweek,municipality,184.018692016602,2020-11
@@ -5685,7 +5685,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1504422,Marituba,PA,ERA5-Land (Copernicus),precip_max,44,2020-10-25,epiweek,municipality,4.4012041091919,2020-10
 1504604,Mocajuba,PA,ERA5-Land (Copernicus),precip_max,44,2020-10-25,epiweek,municipality,6.58854961395264,2020-10
 1504703,Moju,PA,ERA5-Land (Copernicus),precip_max,44,2020-10-25,epiweek,municipality,6.58854961395264,2020-10
-1505064,Novo Repartimento,PA,ERA5-Land (Copernicus),precip_max,44,2020-10-25,epiweek,municipality,8.73612499237061,2020-10
+1505064,Novo Repartimento,PA,ERA5-Land (Copernicus),precip_max,44,2020-10-25,epiweek,municipality,8.7361249923706,2020-10
 1505205,Oeiras do Pará,PA,ERA5-Land (Copernicus),precip_max,44,2020-10-25,epiweek,municipality,9.49838161468506,2020-10
 1506351,Santa Bárbara do Pará,PA,ERA5-Land (Copernicus),precip_max,44,2020-10-25,epiweek,municipality,4.21561145782471,2020-10
 1507953,Tailândia,PA,ERA5-Land (Copernicus),precip_max,44,2020-10-25,epiweek,municipality,5.36893892288208,2020-10
@@ -5730,7 +5730,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1505064,Novo Repartimento,PA,ERA5-Land (Copernicus),precip_max,42,2020-10-11,epiweek,municipality,13.2367544174194,2020-10
 1505205,Oeiras do Pará,PA,ERA5-Land (Copernicus),precip_max,42,2020-10-11,epiweek,municipality,2.93634581565857,2020-10
 1506351,Santa Bárbara do Pará,PA,ERA5-Land (Copernicus),precip_max,42,2020-10-11,epiweek,municipality,3.83779716491699,2020-10
-1507953,Tailândia,PA,ERA5-Land (Copernicus),precip_max,42,2020-10-11,epiweek,municipality,2.94960212707519,2020-10
+1507953,Tailândia,PA,ERA5-Land (Copernicus),precip_max,42,2020-10-11,epiweek,municipality,2.9496021270752,2020-10
 1508100,Tucuruí,PA,ERA5-Land (Copernicus),precip_max,42,2020-10-11,epiweek,municipality,2.16083240509033,2020-10
 1500107,Abaetetuba,PA,ERA5-Land (Copernicus),precip_max,41,2020-10-04,epiweek,municipality,4.7061071395874,2020-10
 1500800,Ananindeua,PA,ERA5-Land (Copernicus),precip_max,41,2020-10-04,epiweek,municipality,5.2562575340271,2020-10
@@ -6484,7 +6484,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1504604,Mocajuba,PA,ERA5-Land (Copernicus),precip_max,6,2020-02-02,epiweek,municipality,15.8750696182251,2020-02
 1504703,Moju,PA,ERA5-Land (Copernicus),precip_max,6,2020-02-02,epiweek,municipality,67.097770690918,2020-02
 1505064,Novo Repartimento,PA,ERA5-Land (Copernicus),precip_max,6,2020-02-02,epiweek,municipality,63.2048759460449,2020-02
-1505205,Oeiras do Pará,PA,ERA5-Land (Copernicus),precip_max,6,2020-02-02,epiweek,municipality,12.3059110641479,2020-02
+1505205,Oeiras do Pará,PA,ERA5-Land (Copernicus),precip_max,6,2020-02-02,epiweek,municipality,12.305911064148,2020-02
 1506351,Santa Bárbara do Pará,PA,ERA5-Land (Copernicus),precip_max,6,2020-02-02,epiweek,municipality,22.819149017334,2020-02
 1507953,Tailândia,PA,ERA5-Land (Copernicus),precip_max,6,2020-02-02,epiweek,municipality,81.5322265625,2020-02
 1508100,Tucuruí,PA,ERA5-Land (Copernicus),precip_max,6,2020-02-02,epiweek,municipality,51.1296234130859,2020-02
@@ -6657,7 +6657,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1507953,Tailândia,PA,ERA5-Land (Copernicus),precip_max,50,2019-12-08,epiweek,municipality,9.60843753814697,2019-12
 1508100,Tucuruí,PA,ERA5-Land (Copernicus),precip_max,50,2019-12-08,epiweek,municipality,18.6218681335449,2019-12
 1500107,Abaetetuba,PA,ERA5-Land (Copernicus),precip_max,49,2019-12-01,epiweek,municipality,5.64792060852051,2019-12
-1500800,Ananindeua,PA,ERA5-Land (Copernicus),precip_max,49,2019-12-01,epiweek,municipality,2.60780525207519,2019-12
+1500800,Ananindeua,PA,ERA5-Land (Copernicus),precip_max,49,2019-12-01,epiweek,municipality,2.6078052520752,2019-12
 1501105,Bagre,PA,ERA5-Land (Copernicus),precip_max,49,2019-12-01,epiweek,municipality,8.65549564361572,2019-12
 1501204,Baião,PA,ERA5-Land (Copernicus),precip_max,49,2019-12-01,epiweek,municipality,10.8031005859375,2019-12
 1501303,Barcarena,PA,ERA5-Land (Copernicus),precip_max,49,2019-12-01,epiweek,municipality,5.16447687149048,2019-12
@@ -6768,7 +6768,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1501303,Barcarena,PA,ERA5-Land (Copernicus),precip_max,44,2019-10-27,epiweek,municipality,4.2616982460022,2019-10
 1501402,Belém,PA,ERA5-Land (Copernicus),precip_max,44,2019-10-27,epiweek,municipality,5.05345106124878,2019-10
 1501501,Benevides,PA,ERA5-Land (Copernicus),precip_max,44,2019-10-27,epiweek,municipality,4.95017910003662,2019-10
-1501782,Breu Branco,PA,ERA5-Land (Copernicus),precip_max,44,2019-10-27,epiweek,municipality,2.58180427551269,2019-10
+1501782,Breu Branco,PA,ERA5-Land (Copernicus),precip_max,44,2019-10-27,epiweek,municipality,2.5818042755127,2019-10
 1502103,Cametá,PA,ERA5-Land (Copernicus),precip_max,44,2019-10-27,epiweek,municipality,1.90020799636841,2019-10
 1503093,Goianésia do Pará,PA,ERA5-Land (Copernicus),precip_max,44,2019-10-27,epiweek,municipality,2.60245871543884,2019-10
 1503309,Igarapé-Miri,PA,ERA5-Land (Copernicus),precip_max,44,2019-10-27,epiweek,municipality,1.90020799636841,2019-10
@@ -7036,7 +7036,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1508100,Tucuruí,PA,ERA5-Land (Copernicus),precip_max,32,2019-08-04,epiweek,municipality,2.09991002082825,2019-08
 1500107,Abaetetuba,PA,ERA5-Land (Copernicus),precip_max,31,2019-07-28,epiweek,municipality,3.38832068443298,2019-07
 1500800,Ananindeua,PA,ERA5-Land (Copernicus),precip_max,31,2019-07-28,epiweek,municipality,4.07637071609497,2019-07
-1501105,Bagre,PA,ERA5-Land (Copernicus),precip_max,31,2019-07-28,epiweek,municipality,3.77778291702271,2019-07
+1501105,Bagre,PA,ERA5-Land (Copernicus),precip_max,31,2019-07-28,epiweek,municipality,3.7777829170227,2019-07
 1501204,Baião,PA,ERA5-Land (Copernicus),precip_max,31,2019-07-28,epiweek,municipality,4.88125896453857,2019-07
 1501303,Barcarena,PA,ERA5-Land (Copernicus),precip_max,31,2019-07-28,epiweek,municipality,3.7042179107666,2019-07
 1501402,Belém,PA,ERA5-Land (Copernicus),precip_max,31,2019-07-28,epiweek,municipality,4.79471158981323,2019-07
@@ -7164,7 +7164,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1500800,Ananindeua,PA,ERA5-Land (Copernicus),precip_max,25,2019-06-16,epiweek,municipality,5.41150903701782,2019-06
 1501105,Bagre,PA,ERA5-Land (Copernicus),precip_max,25,2019-06-16,epiweek,municipality,12.1576957702637,2019-06
 1501204,Baião,PA,ERA5-Land (Copernicus),precip_max,25,2019-06-16,epiweek,municipality,8.53586769104004,2019-06
-1501303,Barcarena,PA,ERA5-Land (Copernicus),precip_max,25,2019-06-16,epiweek,municipality,5.76337862014771,2019-06
+1501303,Barcarena,PA,ERA5-Land (Copernicus),precip_max,25,2019-06-16,epiweek,municipality,5.7633786201477,2019-06
 1501402,Belém,PA,ERA5-Land (Copernicus),precip_max,25,2019-06-16,epiweek,municipality,5.41150903701782,2019-06
 1501501,Benevides,PA,ERA5-Land (Copernicus),precip_max,25,2019-06-16,epiweek,municipality,5.41150903701782,2019-06
 1501782,Breu Branco,PA,ERA5-Land (Copernicus),precip_max,25,2019-06-16,epiweek,municipality,8.1718635559082,2019-06
@@ -8120,7 +8120,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1504000,Limoeiro do Ajuru,PA,ERA5-Land (Copernicus),precip_max,32,2018-08-05,epiweek,municipality,2.78241729736328,2018-08
 1504422,Marituba,PA,ERA5-Land (Copernicus),precip_max,32,2018-08-05,epiweek,municipality,5.07000207901001,2018-08
 1504604,Mocajuba,PA,ERA5-Land (Copernicus),precip_max,32,2018-08-05,epiweek,municipality,1.92254495620727,2018-08
-1504703,Moju,PA,ERA5-Land (Copernicus),precip_max,32,2018-08-05,epiweek,municipality,2.50660896301269,2018-08
+1504703,Moju,PA,ERA5-Land (Copernicus),precip_max,32,2018-08-05,epiweek,municipality,2.5066089630127,2018-08
 1505064,Novo Repartimento,PA,ERA5-Land (Copernicus),precip_max,32,2018-08-05,epiweek,municipality,2.35248112678528,2018-08
 1505205,Oeiras do Pará,PA,ERA5-Land (Copernicus),precip_max,32,2018-08-05,epiweek,municipality,2.02800107002258,2018-08
 1506351,Santa Bárbara do Pará,PA,ERA5-Land (Copernicus),precip_max,32,2018-08-05,epiweek,municipality,6.17729091644287,2018-08
@@ -8205,7 +8205,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1504422,Marituba,PA,ERA5-Land (Copernicus),precip_max,28,2018-07-08,epiweek,municipality,9.33324718475342,2018-07
 1504604,Mocajuba,PA,ERA5-Land (Copernicus),precip_max,28,2018-07-08,epiweek,municipality,11.2067232131958,2018-07
 1504703,Moju,PA,ERA5-Land (Copernicus),precip_max,28,2018-07-08,epiweek,municipality,14.8854103088379,2018-07
-1505064,Novo Repartimento,PA,ERA5-Land (Copernicus),precip_max,28,2018-07-08,epiweek,municipality,3.84934806823731,2018-07
+1505064,Novo Repartimento,PA,ERA5-Land (Copernicus),precip_max,28,2018-07-08,epiweek,municipality,3.8493480682373,2018-07
 1505205,Oeiras do Pará,PA,ERA5-Land (Copernicus),precip_max,28,2018-07-08,epiweek,municipality,10.8388538360596,2018-07
 1506351,Santa Bárbara do Pará,PA,ERA5-Land (Copernicus),precip_max,28,2018-07-08,epiweek,municipality,9.52287006378174,2018-07
 1507953,Tailândia,PA,ERA5-Land (Copernicus),precip_max,28,2018-07-08,epiweek,municipality,6.65197706222534,2018-07
@@ -8799,7 +8799,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1507953,Tailândia,PA,ERA5-Land (Copernicus),precip_max,52,2017-12-24,epiweek,municipality,20.2653865814209,2017-12
 1508100,Tucuruí,PA,ERA5-Land (Copernicus),precip_max,52,2017-12-24,epiweek,municipality,27.2071208953857,2017-12
 1500107,Abaetetuba,PA,ERA5-Land (Copernicus),precip_max,51,2017-12-17,epiweek,municipality,17.3130874633789,2017-12
-1500800,Ananindeua,PA,ERA5-Land (Copernicus),precip_max,51,2017-12-17,epiweek,municipality,15.0148897171021,2017-12
+1500800,Ananindeua,PA,ERA5-Land (Copernicus),precip_max,51,2017-12-17,epiweek,municipality,15.014889717102,2017-12
 1501105,Bagre,PA,ERA5-Land (Copernicus),precip_max,51,2017-12-17,epiweek,municipality,97.0546417236328,2017-12
 1501204,Baião,PA,ERA5-Land (Copernicus),precip_max,51,2017-12-17,epiweek,municipality,101.668716430664,2017-12
 1501303,Barcarena,PA,ERA5-Land (Copernicus),precip_max,51,2017-12-17,epiweek,municipality,11.5675935745239,2017-12
@@ -8931,7 +8931,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1501303,Barcarena,PA,ERA5-Land (Copernicus),precip_max,45,2017-11-05,epiweek,municipality,0.565239250659943,2017-11
 1501402,Belém,PA,ERA5-Land (Copernicus),precip_max,45,2017-11-05,epiweek,municipality,2.16445255279541,2017-11
 1501501,Benevides,PA,ERA5-Land (Copernicus),precip_max,45,2017-11-05,epiweek,municipality,2.16445255279541,2017-11
-1501782,Breu Branco,PA,ERA5-Land (Copernicus),precip_max,45,2017-11-05,epiweek,municipality,3.97505664825439,2017-11
+1501782,Breu Branco,PA,ERA5-Land (Copernicus),precip_max,45,2017-11-05,epiweek,municipality,3.9750566482544,2017-11
 1502103,Cametá,PA,ERA5-Land (Copernicus),precip_max,45,2017-11-05,epiweek,municipality,2.51830148696899,2017-11
 1503093,Goianésia do Pará,PA,ERA5-Land (Copernicus),precip_max,45,2017-11-05,epiweek,municipality,6.76908445358276,2017-11
 1503309,Igarapé-Miri,PA,ERA5-Land (Copernicus),precip_max,45,2017-11-05,epiweek,municipality,1.53028190135956,2017-11
@@ -9017,7 +9017,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1501501,Benevides,PA,ERA5-Land (Copernicus),precip_max,41,2017-10-08,epiweek,municipality,14.0853042602539,2017-10
 1501782,Breu Branco,PA,ERA5-Land (Copernicus),precip_max,41,2017-10-08,epiweek,municipality,3.60288739204407,2017-10
 1502103,Cametá,PA,ERA5-Land (Copernicus),precip_max,41,2017-10-08,epiweek,municipality,5.6951150894165,2017-10
-1503093,Goianésia do Pará,PA,ERA5-Land (Copernicus),precip_max,41,2017-10-08,epiweek,municipality,2.70216560363769,2017-10
+1503093,Goianésia do Pará,PA,ERA5-Land (Copernicus),precip_max,41,2017-10-08,epiweek,municipality,2.7021656036377,2017-10
 1503309,Igarapé-Miri,PA,ERA5-Land (Copernicus),precip_max,41,2017-10-08,epiweek,municipality,6.18448448181152,2017-10
 1503804,Jacundá,PA,ERA5-Land (Copernicus),precip_max,41,2017-10-08,epiweek,municipality,2.90784215927124,2017-10
 1504000,Limoeiro do Ajuru,PA,ERA5-Land (Copernicus),precip_max,41,2017-10-08,epiweek,municipality,5.31213140487671,2017-10
@@ -9051,19 +9051,19 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1507953,Tailândia,PA,ERA5-Land (Copernicus),precip_max,40,2017-10-01,epiweek,municipality,0.730506718158722,2017-10
 1508100,Tucuruí,PA,ERA5-Land (Copernicus),precip_max,40,2017-10-01,epiweek,municipality,2.43265843391419,2017-10
 1500107,Abaetetuba,PA,ERA5-Land (Copernicus),precip_max,39,2017-09-24,epiweek,municipality,3.599604845047,2017-09
-1500800,Ananindeua,PA,ERA5-Land (Copernicus),precip_max,39,2017-09-24,epiweek,municipality,4.53325223922729,2017-09
+1500800,Ananindeua,PA,ERA5-Land (Copernicus),precip_max,39,2017-09-24,epiweek,municipality,4.5332522392273,2017-09
 1501105,Bagre,PA,ERA5-Land (Copernicus),precip_max,39,2017-09-24,epiweek,municipality,7.87976026535034,2017-09
 1501204,Baião,PA,ERA5-Land (Copernicus),precip_max,39,2017-09-24,epiweek,municipality,9.57269954681396,2017-09
 1501303,Barcarena,PA,ERA5-Land (Copernicus),precip_max,39,2017-09-24,epiweek,municipality,3.31276154518127,2017-09
-1501402,Belém,PA,ERA5-Land (Copernicus),precip_max,39,2017-09-24,epiweek,municipality,4.53325223922729,2017-09
-1501501,Benevides,PA,ERA5-Land (Copernicus),precip_max,39,2017-09-24,epiweek,municipality,4.53325223922729,2017-09
+1501402,Belém,PA,ERA5-Land (Copernicus),precip_max,39,2017-09-24,epiweek,municipality,4.5332522392273,2017-09
+1501501,Benevides,PA,ERA5-Land (Copernicus),precip_max,39,2017-09-24,epiweek,municipality,4.5332522392273,2017-09
 1501782,Breu Branco,PA,ERA5-Land (Copernicus),precip_max,39,2017-09-24,epiweek,municipality,2.3847382068634,2017-09
 1502103,Cametá,PA,ERA5-Land (Copernicus),precip_max,39,2017-09-24,epiweek,municipality,9.22961139678955,2017-09
 1503093,Goianésia do Pará,PA,ERA5-Land (Copernicus),precip_max,39,2017-09-24,epiweek,municipality,2.36786508560181,2017-09
 1503309,Igarapé-Miri,PA,ERA5-Land (Copernicus),precip_max,39,2017-09-24,epiweek,municipality,5.36566066741943,2017-09
 1503804,Jacundá,PA,ERA5-Land (Copernicus),precip_max,39,2017-09-24,epiweek,municipality,1.61419785022736,2017-09
 1504000,Limoeiro do Ajuru,PA,ERA5-Land (Copernicus),precip_max,39,2017-09-24,epiweek,municipality,6.3274302482605,2017-09
-1504422,Marituba,PA,ERA5-Land (Copernicus),precip_max,39,2017-09-24,epiweek,municipality,4.53325223922729,2017-09
+1504422,Marituba,PA,ERA5-Land (Copernicus),precip_max,39,2017-09-24,epiweek,municipality,4.5332522392273,2017-09
 1504604,Mocajuba,PA,ERA5-Land (Copernicus),precip_max,39,2017-09-24,epiweek,municipality,9.57269954681396,2017-09
 1504703,Moju,PA,ERA5-Land (Copernicus),precip_max,39,2017-09-24,epiweek,municipality,8.57718372344971,2017-09
 1505064,Novo Repartimento,PA,ERA5-Land (Copernicus),precip_max,39,2017-09-24,epiweek,municipality,3.18340039253235,2017-09
@@ -9272,7 +9272,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1503093,Goianésia do Pará,PA,ERA5-Land (Copernicus),precip_max,29,2017-07-16,epiweek,municipality,0.074953146278858,2017-07
 1503309,Igarapé-Miri,PA,ERA5-Land (Copernicus),precip_max,29,2017-07-16,epiweek,municipality,1.68644595146179,2017-07
 1503804,Jacundá,PA,ERA5-Land (Copernicus),precip_max,29,2017-07-16,epiweek,municipality,0.224859446287155,2017-07
-1504000,Limoeiro do Ajuru,PA,ERA5-Land (Copernicus),precip_max,29,2017-07-16,epiweek,municipality,2.51628446578979,2017-07
+1504000,Limoeiro do Ajuru,PA,ERA5-Land (Copernicus),precip_max,29,2017-07-16,epiweek,municipality,2.5162844657898,2017-07
 1504422,Marituba,PA,ERA5-Land (Copernicus),precip_max,29,2017-07-16,epiweek,municipality,15.4349946975708,2017-07
 1504604,Mocajuba,PA,ERA5-Land (Copernicus),precip_max,29,2017-07-16,epiweek,municipality,1.16177380084991,2017-07
 1504703,Moju,PA,ERA5-Land (Copernicus),precip_max,29,2017-07-16,epiweek,municipality,8.46970558166504,2017-07
@@ -9376,7 +9376,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1502103,Cametá,PA,ERA5-Land (Copernicus),precip_max,24,2017-06-11,epiweek,municipality,16.3115844726562,2017-06
 1503093,Goianésia do Pará,PA,ERA5-Land (Copernicus),precip_max,24,2017-06-11,epiweek,municipality,9.47900295257568,2017-06
 1503309,Igarapé-Miri,PA,ERA5-Land (Copernicus),precip_max,24,2017-06-11,epiweek,municipality,17.2189292907715,2017-06
-1503804,Jacundá,PA,ERA5-Land (Copernicus),precip_max,24,2017-06-11,epiweek,municipality,7.56120634078979,2017-06
+1503804,Jacundá,PA,ERA5-Land (Copernicus),precip_max,24,2017-06-11,epiweek,municipality,7.5612063407898,2017-06
 1504000,Limoeiro do Ajuru,PA,ERA5-Land (Copernicus),precip_max,24,2017-06-11,epiweek,municipality,11.82297706604,2017-06
 1504422,Marituba,PA,ERA5-Land (Copernicus),precip_max,24,2017-06-11,epiweek,municipality,11.6580057144165,2017-06
 1504604,Mocajuba,PA,ERA5-Land (Copernicus),precip_max,24,2017-06-11,epiweek,municipality,14.7443523406982,2017-06
@@ -9393,7 +9393,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1501303,Barcarena,PA,ERA5-Land (Copernicus),precip_max,23,2017-06-04,epiweek,municipality,6.51638507843018,2017-06
 1501402,Belém,PA,ERA5-Land (Copernicus),precip_max,23,2017-06-04,epiweek,municipality,10.4069690704346,2017-06
 1501501,Benevides,PA,ERA5-Land (Copernicus),precip_max,23,2017-06-04,epiweek,municipality,10.4069690704346,2017-06
-1501782,Breu Branco,PA,ERA5-Land (Copernicus),precip_max,23,2017-06-04,epiweek,municipality,3.51252412796021,2017-06
+1501782,Breu Branco,PA,ERA5-Land (Copernicus),precip_max,23,2017-06-04,epiweek,municipality,3.5125241279602,2017-06
 1502103,Cametá,PA,ERA5-Land (Copernicus),precip_max,23,2017-06-04,epiweek,municipality,7.63681840896606,2017-06
 1503093,Goianésia do Pará,PA,ERA5-Land (Copernicus),precip_max,23,2017-06-04,epiweek,municipality,8.9497184753418,2017-06
 1503309,Igarapé-Miri,PA,ERA5-Land (Copernicus),precip_max,23,2017-06-04,epiweek,municipality,6.50951147079468,2017-06
@@ -10136,7 +10136,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1504000,Limoeiro do Ajuru,PA,ERA5-Land (Copernicus),precip_max,40,2016-10-02,epiweek,municipality,4.45936250686646,2016-10
 1504422,Marituba,PA,ERA5-Land (Copernicus),precip_max,40,2016-10-02,epiweek,municipality,6.1879620552063,2016-10
 1504604,Mocajuba,PA,ERA5-Land (Copernicus),precip_max,40,2016-10-02,epiweek,municipality,7.33329105377197,2016-10
-1504703,Moju,PA,ERA5-Land (Copernicus),precip_max,40,2016-10-02,epiweek,municipality,9.33231639862061,2016-10
+1504703,Moju,PA,ERA5-Land (Copernicus),precip_max,40,2016-10-02,epiweek,municipality,9.3323163986206,2016-10
 1505064,Novo Repartimento,PA,ERA5-Land (Copernicus),precip_max,40,2016-10-02,epiweek,municipality,56.3809776306152,2016-10
 1505205,Oeiras do Pará,PA,ERA5-Land (Copernicus),precip_max,40,2016-10-02,epiweek,municipality,7.42873573303223,2016-10
 1506351,Santa Bárbara do Pará,PA,ERA5-Land (Copernicus),precip_max,40,2016-10-02,epiweek,municipality,9.0300760269165,2016-10
@@ -10271,7 +10271,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1500107,Abaetetuba,PA,ERA5-Land (Copernicus),precip_max,33,2016-08-14,epiweek,municipality,1.66796004772186,2016-08
 1500800,Ananindeua,PA,ERA5-Land (Copernicus),precip_max,33,2016-08-14,epiweek,municipality,4.46113157272339,2016-08
 1501105,Bagre,PA,ERA5-Land (Copernicus),precip_max,33,2016-08-14,epiweek,municipality,3.56096267700195,2016-08
-1501204,Baião,PA,ERA5-Land (Copernicus),precip_max,33,2016-08-14,epiweek,municipality,1.46939349174499,2016-08
+1501204,Baião,PA,ERA5-Land (Copernicus),precip_max,33,2016-08-14,epiweek,municipality,1.469393491745,2016-08
 1501303,Barcarena,PA,ERA5-Land (Copernicus),precip_max,33,2016-08-14,epiweek,municipality,1.40320467948914,2016-08
 1501402,Belém,PA,ERA5-Land (Copernicus),precip_max,33,2016-08-14,epiweek,municipality,4.46113157272339,2016-08
 1501501,Benevides,PA,ERA5-Land (Copernicus),precip_max,33,2016-08-14,epiweek,municipality,4.46113157272339,2016-08
@@ -11035,7 +11035,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1502103,Cametá,PA,ERA5-Land (Copernicus),precip_max,49,2015-12-06,epiweek,municipality,3.00056791305542,2015-12
 1503093,Goianésia do Pará,PA,ERA5-Land (Copernicus),precip_max,49,2015-12-06,epiweek,municipality,4.77535200119019,2015-12
 1503309,Igarapé-Miri,PA,ERA5-Land (Copernicus),precip_max,49,2015-12-06,epiweek,municipality,5.41427421569824,2015-12
-1503804,Jacundá,PA,ERA5-Land (Copernicus),precip_max,49,2015-12-06,epiweek,municipality,3.78620576858521,2015-12
+1503804,Jacundá,PA,ERA5-Land (Copernicus),precip_max,49,2015-12-06,epiweek,municipality,3.7862057685852,2015-12
 1504000,Limoeiro do Ajuru,PA,ERA5-Land (Copernicus),precip_max,49,2015-12-06,epiweek,municipality,2.99583506584167,2015-12
 1504422,Marituba,PA,ERA5-Land (Copernicus),precip_max,49,2015-12-06,epiweek,municipality,5.24389457702637,2015-12
 1504604,Mocajuba,PA,ERA5-Land (Copernicus),precip_max,49,2015-12-06,epiweek,municipality,2.91537833213806,2015-12
@@ -11089,7 +11089,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1508100,Tucuruí,PA,ERA5-Land (Copernicus),precip_max,47,2015-11-22,epiweek,municipality,5.11102962493896,2015-11
 1500107,Abaetetuba,PA,ERA5-Land (Copernicus),precip_max,46,2015-11-15,epiweek,municipality,1.72748911380768,2015-11
 1500800,Ananindeua,PA,ERA5-Land (Copernicus),precip_max,46,2015-11-15,epiweek,municipality,1.83789253234863,2015-11
-1501105,Bagre,PA,ERA5-Land (Copernicus),precip_max,46,2015-11-15,epiweek,municipality,1.46771645545959,2015-11
+1501105,Bagre,PA,ERA5-Land (Copernicus),precip_max,46,2015-11-15,epiweek,municipality,1.4677164554596,2015-11
 1501204,Baião,PA,ERA5-Land (Copernicus),precip_max,46,2015-11-15,epiweek,municipality,0.961159348487854,2015-11
 1501303,Barcarena,PA,ERA5-Land (Copernicus),precip_max,46,2015-11-15,epiweek,municipality,0.987136602401733,2015-11
 1501402,Belém,PA,ERA5-Land (Copernicus),precip_max,46,2015-11-15,epiweek,municipality,2.11065411567688,2015-11
@@ -11138,13 +11138,13 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1501501,Benevides,PA,ERA5-Land (Copernicus),precip_max,44,2015-11-01,epiweek,municipality,3.19334197044373,2015-11
 1501782,Breu Branco,PA,ERA5-Land (Copernicus),precip_max,44,2015-11-01,epiweek,municipality,8.48816776275635,2015-11
 1502103,Cametá,PA,ERA5-Land (Copernicus),precip_max,44,2015-11-01,epiweek,municipality,4.74085330963135,2015-11
-1503093,Goianésia do Pará,PA,ERA5-Land (Copernicus),precip_max,44,2015-11-01,epiweek,municipality,15.1032743453979,2015-11
+1503093,Goianésia do Pará,PA,ERA5-Land (Copernicus),precip_max,44,2015-11-01,epiweek,municipality,15.103274345398,2015-11
 1503309,Igarapé-Miri,PA,ERA5-Land (Copernicus),precip_max,44,2015-11-01,epiweek,municipality,4.74085330963135,2015-11
 1503804,Jacundá,PA,ERA5-Land (Copernicus),precip_max,44,2015-11-01,epiweek,municipality,20.5168800354004,2015-11
 1504000,Limoeiro do Ajuru,PA,ERA5-Land (Copernicus),precip_max,44,2015-11-01,epiweek,municipality,2.70163702964783,2015-11
 1504422,Marituba,PA,ERA5-Land (Copernicus),precip_max,44,2015-11-01,epiweek,municipality,2.88268780708313,2015-11
 1504604,Mocajuba,PA,ERA5-Land (Copernicus),precip_max,44,2015-11-01,epiweek,municipality,3.3623743057251,2015-11
-1504703,Moju,PA,ERA5-Land (Copernicus),precip_max,44,2015-11-01,epiweek,municipality,9.11153125762939,2015-11
+1504703,Moju,PA,ERA5-Land (Copernicus),precip_max,44,2015-11-01,epiweek,municipality,9.1115312576294,2015-11
 1505064,Novo Repartimento,PA,ERA5-Land (Copernicus),precip_max,44,2015-11-01,epiweek,municipality,19.50244140625,2015-11
 1505205,Oeiras do Pará,PA,ERA5-Land (Copernicus),precip_max,44,2015-11-01,epiweek,municipality,4.66292142868042,2015-11
 1506351,Santa Bárbara do Pará,PA,ERA5-Land (Copernicus),precip_max,44,2015-11-01,epiweek,municipality,3.19334197044373,2015-11
@@ -11208,7 +11208,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1504422,Marituba,PA,ERA5-Land (Copernicus),precip_max,41,2015-10-11,epiweek,municipality,0.647947907447815,2015-10
 1504604,Mocajuba,PA,ERA5-Land (Copernicus),precip_max,41,2015-10-11,epiweek,municipality,0.320634007453918,2015-10
 1504703,Moju,PA,ERA5-Land (Copernicus),precip_max,41,2015-10-11,epiweek,municipality,0.547749817371368,2015-10
-1505064,Novo Repartimento,PA,ERA5-Land (Copernicus),precip_max,41,2015-10-11,epiweek,municipality,3.02598381042481,2015-10
+1505064,Novo Repartimento,PA,ERA5-Land (Copernicus),precip_max,41,2015-10-11,epiweek,municipality,3.0259838104248,2015-10
 1505205,Oeiras do Pará,PA,ERA5-Land (Copernicus),precip_max,41,2015-10-11,epiweek,municipality,0.527710139751434,2015-10
 1506351,Santa Bárbara do Pará,PA,ERA5-Land (Copernicus),precip_max,41,2015-10-11,epiweek,municipality,0.828304588794708,2015-10
 1507953,Tailândia,PA,ERA5-Land (Copernicus),precip_max,41,2015-10-11,epiweek,municipality,0.240475505590439,2015-10
@@ -11548,7 +11548,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1505205,Oeiras do Pará,PA,ERA5-Land (Copernicus),precip_max,25,2015-06-21,epiweek,municipality,16.2544097900391,2015-06
 1506351,Santa Bárbara do Pará,PA,ERA5-Land (Copernicus),precip_max,25,2015-06-21,epiweek,municipality,11.820460319519,2015-06
 1507953,Tailândia,PA,ERA5-Land (Copernicus),precip_max,25,2015-06-21,epiweek,municipality,8.53586387634277,2015-06
-1508100,Tucuruí,PA,ERA5-Land (Copernicus),precip_max,25,2015-06-21,epiweek,municipality,9.31742382049561,2015-06
+1508100,Tucuruí,PA,ERA5-Land (Copernicus),precip_max,25,2015-06-21,epiweek,municipality,9.3174238204956,2015-06
 1500107,Abaetetuba,PA,ERA5-Land (Copernicus),precip_max,24,2015-06-14,epiweek,municipality,5.16442775726318,2015-06
 1500800,Ananindeua,PA,ERA5-Land (Copernicus),precip_max,24,2015-06-14,epiweek,municipality,6.26269865036011,2015-06
 1501105,Bagre,PA,ERA5-Land (Copernicus),precip_max,24,2015-06-14,epiweek,municipality,4.34200143814087,2015-06
@@ -11624,7 +11624,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1503093,Goianésia do Pará,PA,ERA5-Land (Copernicus),precip_max,21,2015-05-24,epiweek,municipality,11.2347497940063,2015-05
 1503309,Igarapé-Miri,PA,ERA5-Land (Copernicus),precip_max,21,2015-05-24,epiweek,municipality,12.7976369857788,2015-05
 1503804,Jacundá,PA,ERA5-Land (Copernicus),precip_max,21,2015-05-24,epiweek,municipality,4.52034902572632,2015-05
-1504000,Limoeiro do Ajuru,PA,ERA5-Land (Copernicus),precip_max,21,2015-05-24,epiweek,municipality,13.8796358108521,2015-05
+1504000,Limoeiro do Ajuru,PA,ERA5-Land (Copernicus),precip_max,21,2015-05-24,epiweek,municipality,13.879635810852,2015-05
 1504422,Marituba,PA,ERA5-Land (Copernicus),precip_max,21,2015-05-24,epiweek,municipality,12.4189376831055,2015-05
 1504604,Mocajuba,PA,ERA5-Land (Copernicus),precip_max,21,2015-05-24,epiweek,municipality,11.9500713348389,2015-05
 1504703,Moju,PA,ERA5-Land (Copernicus),precip_max,21,2015-05-24,epiweek,municipality,17.5584297180176,2015-05
@@ -12076,7 +12076,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1508100,Tucuruí,PA,ERA5-Land (Copernicus),precip_max,53,2014-12-28,epiweek,municipality,13.3164968490601,2014-12
 1500107,Abaetetuba,PA,ERA5-Land (Copernicus),precip_max,52,2014-12-21,epiweek,municipality,4.08035802841187,2014-12
 1500800,Ananindeua,PA,ERA5-Land (Copernicus),precip_max,52,2014-12-21,epiweek,municipality,2.46116852760315,2014-12
-1501105,Bagre,PA,ERA5-Land (Copernicus),precip_max,52,2014-12-21,epiweek,municipality,7.03190946578979,2014-12
+1501105,Bagre,PA,ERA5-Land (Copernicus),precip_max,52,2014-12-21,epiweek,municipality,7.0319094657898,2014-12
 1501204,Baião,PA,ERA5-Land (Copernicus),precip_max,52,2014-12-21,epiweek,municipality,7.44827270507812,2014-12
 1501303,Barcarena,PA,ERA5-Land (Copernicus),precip_max,52,2014-12-21,epiweek,municipality,2.5213098526001,2014-12
 1501402,Belém,PA,ERA5-Land (Copernicus),precip_max,52,2014-12-21,epiweek,municipality,4.75579166412354,2014-12
@@ -12299,7 +12299,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1504000,Limoeiro do Ajuru,PA,ERA5-Land (Copernicus),precip_max,42,2014-10-12,epiweek,municipality,7.45825433731079,2014-10
 1504422,Marituba,PA,ERA5-Land (Copernicus),precip_max,42,2014-10-12,epiweek,municipality,6.38490390777588,2014-10
 1504604,Mocajuba,PA,ERA5-Land (Copernicus),precip_max,42,2014-10-12,epiweek,municipality,11.4695196151733,2014-10
-1504703,Moju,PA,ERA5-Land (Copernicus),precip_max,42,2014-10-12,epiweek,municipality,11.5124540328979,2014-10
+1504703,Moju,PA,ERA5-Land (Copernicus),precip_max,42,2014-10-12,epiweek,municipality,11.512454032898,2014-10
 1505064,Novo Repartimento,PA,ERA5-Land (Copernicus),precip_max,42,2014-10-12,epiweek,municipality,7.09024858474731,2014-10
 1505205,Oeiras do Pará,PA,ERA5-Land (Copernicus),precip_max,42,2014-10-12,epiweek,municipality,10.4575033187866,2014-10
 1506351,Santa Bárbara do Pará,PA,ERA5-Land (Copernicus),precip_max,42,2014-10-12,epiweek,municipality,7.2497181892395,2014-10
@@ -12345,7 +12345,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1505064,Novo Repartimento,PA,ERA5-Land (Copernicus),precip_max,40,2014-09-28,epiweek,municipality,18.0752277374268,2014-09
 1505205,Oeiras do Pará,PA,ERA5-Land (Copernicus),precip_max,40,2014-09-28,epiweek,municipality,2.49881315231323,2014-09
 1506351,Santa Bárbara do Pará,PA,ERA5-Land (Copernicus),precip_max,40,2014-09-28,epiweek,municipality,2.31230425834656,2014-09
-1507953,Tailândia,PA,ERA5-Land (Copernicus),precip_max,40,2014-09-28,epiweek,municipality,4.24433565139771,2014-09
+1507953,Tailândia,PA,ERA5-Land (Copernicus),precip_max,40,2014-09-28,epiweek,municipality,4.2443356513977,2014-09
 1508100,Tucuruí,PA,ERA5-Land (Copernicus),precip_max,40,2014-09-28,epiweek,municipality,16.7810726165771,2014-09
 1500107,Abaetetuba,PA,ERA5-Land (Copernicus),precip_max,39,2014-09-21,epiweek,municipality,1.69359135627747,2014-09
 1500800,Ananindeua,PA,ERA5-Land (Copernicus),precip_max,39,2014-09-21,epiweek,municipality,1.33911883831024,2014-09
@@ -12703,7 +12703,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1505205,Oeiras do Pará,PA,ERA5-Land (Copernicus),precip_max,23,2014-06-01,epiweek,municipality,8.25749683380127,2014-06
 1506351,Santa Bárbara do Pará,PA,ERA5-Land (Copernicus),precip_max,23,2014-06-01,epiweek,municipality,8.44692897796631,2014-06
 1507953,Tailândia,PA,ERA5-Land (Copernicus),precip_max,23,2014-06-01,epiweek,municipality,6.08312129974365,2014-06
-1508100,Tucuruí,PA,ERA5-Land (Copernicus),precip_max,23,2014-06-01,epiweek,municipality,3.36543750762939,2014-06
+1508100,Tucuruí,PA,ERA5-Land (Copernicus),precip_max,23,2014-06-01,epiweek,municipality,3.3654375076294,2014-06
 1500107,Abaetetuba,PA,ERA5-Land (Copernicus),precip_max,22,2014-05-25,epiweek,municipality,16.8090553283691,2014-05
 1500800,Ananindeua,PA,ERA5-Land (Copernicus),precip_max,22,2014-05-25,epiweek,municipality,10.1307096481323,2014-05
 1501105,Bagre,PA,ERA5-Land (Copernicus),precip_max,22,2014-05-25,epiweek,municipality,17.0714550018311,2014-05
@@ -13165,7 +13165,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1505205,Oeiras do Pará,PA,ERA5-Land (Copernicus),precip_max,1,2013-12-29,epiweek,municipality,7.99340105056763,2013-12
 1506351,Santa Bárbara do Pará,PA,ERA5-Land (Copernicus),precip_max,1,2013-12-29,epiweek,municipality,3.62874412536621,2013-12
 1507953,Tailândia,PA,ERA5-Land (Copernicus),precip_max,1,2013-12-29,epiweek,municipality,9.47386074066162,2013-12
-1508100,Tucuruí,PA,ERA5-Land (Copernicus),precip_max,1,2013-12-29,epiweek,municipality,8.76887989044189,2013-12
+1508100,Tucuruí,PA,ERA5-Land (Copernicus),precip_max,1,2013-12-29,epiweek,municipality,8.7688798904419,2013-12
 1500107,Abaetetuba,PA,ERA5-Land (Copernicus),precip_max,52,2013-12-22,epiweek,municipality,18.432544708252,2013-12
 1500800,Ananindeua,PA,ERA5-Land (Copernicus),precip_max,52,2013-12-22,epiweek,municipality,11.7894535064697,2013-12
 1501105,Bagre,PA,ERA5-Land (Copernicus),precip_max,52,2013-12-22,epiweek,municipality,17.375072479248,2013-12
@@ -13611,7 +13611,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1500800,Ananindeua,PA,ERA5-Land (Copernicus),precip_max,31,2013-07-28,epiweek,municipality,15.5083465576172,2013-07
 1501105,Bagre,PA,ERA5-Land (Copernicus),precip_max,31,2013-07-28,epiweek,municipality,13.6190500259399,2013-07
 1501204,Baião,PA,ERA5-Land (Copernicus),precip_max,31,2013-07-28,epiweek,municipality,13.4623556137085,2013-07
-1501303,Barcarena,PA,ERA5-Land (Copernicus),precip_max,31,2013-07-28,epiweek,municipality,15.3337430953979,2013-07
+1501303,Barcarena,PA,ERA5-Land (Copernicus),precip_max,31,2013-07-28,epiweek,municipality,15.333743095398,2013-07
 1501402,Belém,PA,ERA5-Land (Copernicus),precip_max,31,2013-07-28,epiweek,municipality,17.2633323669434,2013-07
 1501501,Benevides,PA,ERA5-Land (Copernicus),precip_max,31,2013-07-28,epiweek,municipality,15.5620698928833,2013-07
 1501782,Breu Branco,PA,ERA5-Land (Copernicus),precip_max,31,2013-07-28,epiweek,municipality,8.27350521087646,2013-07
@@ -13671,7 +13671,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1507953,Tailândia,PA,ERA5-Land (Copernicus),precip_max,29,2013-07-14,epiweek,municipality,13.422061920166,2013-07
 1508100,Tucuruí,PA,ERA5-Land (Copernicus),precip_max,29,2013-07-14,epiweek,municipality,10.2389106750488,2013-07
 1500107,Abaetetuba,PA,ERA5-Land (Copernicus),precip_max,28,2013-07-07,epiweek,municipality,16.417179107666,2013-07
-1500800,Ananindeua,PA,ERA5-Land (Copernicus),precip_max,28,2013-07-07,epiweek,municipality,12.6430635452271,2013-07
+1500800,Ananindeua,PA,ERA5-Land (Copernicus),precip_max,28,2013-07-07,epiweek,municipality,12.643063545227,2013-07
 1501105,Bagre,PA,ERA5-Land (Copernicus),precip_max,28,2013-07-07,epiweek,municipality,16.5291042327881,2013-07
 1501204,Baião,PA,ERA5-Land (Copernicus),precip_max,28,2013-07-07,epiweek,municipality,10.6552724838257,2013-07
 1501303,Barcarena,PA,ERA5-Land (Copernicus),precip_max,28,2013-07-07,epiweek,municipality,11.765570640564,2013-07
@@ -14166,7 +14166,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1503309,Igarapé-Miri,PA,ERA5-Land (Copernicus),precip_max,5,2013-01-27,epiweek,municipality,22.6447200775146,2013-01
 1503804,Jacundá,PA,ERA5-Land (Copernicus),precip_max,5,2013-01-27,epiweek,municipality,33.8571128845215,2013-01
 1504000,Limoeiro do Ajuru,PA,ERA5-Land (Copernicus),precip_max,5,2013-01-27,epiweek,municipality,16.9428119659424,2013-01
-1504422,Marituba,PA,ERA5-Land (Copernicus),precip_max,5,2013-01-27,epiweek,municipality,10.8430147171021,2013-01
+1504422,Marituba,PA,ERA5-Land (Copernicus),precip_max,5,2013-01-27,epiweek,municipality,10.843014717102,2013-01
 1504604,Mocajuba,PA,ERA5-Land (Copernicus),precip_max,5,2013-01-27,epiweek,municipality,25.2187252044678,2013-01
 1504703,Moju,PA,ERA5-Land (Copernicus),precip_max,5,2013-01-27,epiweek,municipality,49.6717643737793,2013-01
 1505064,Novo Repartimento,PA,ERA5-Land (Copernicus),precip_max,5,2013-01-27,epiweek,municipality,91.8699569702148,2013-01
@@ -14786,7 +14786,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1500107,Abaetetuba,PA,ERA5-Land (Copernicus),precip_max,27,2012-07-01,epiweek,municipality,8.33091640472412,2012-07
 1500800,Ananindeua,PA,ERA5-Land (Copernicus),precip_max,27,2012-07-01,epiweek,municipality,11.5483732223511,2012-07
 1501105,Bagre,PA,ERA5-Land (Copernicus),precip_max,27,2012-07-01,epiweek,municipality,8.48238754272461,2012-07
-1501204,Baião,PA,ERA5-Land (Copernicus),precip_max,27,2012-07-01,epiweek,municipality,7.40119600296021,2012-07
+1501204,Baião,PA,ERA5-Land (Copernicus),precip_max,27,2012-07-01,epiweek,municipality,7.4011960029602,2012-07
 1501303,Barcarena,PA,ERA5-Land (Copernicus),precip_max,27,2012-07-01,epiweek,municipality,10.702223777771,2012-07
 1501402,Belém,PA,ERA5-Land (Copernicus),precip_max,27,2012-07-01,epiweek,municipality,12.3109521865845,2012-07
 1501501,Benevides,PA,ERA5-Land (Copernicus),precip_max,27,2012-07-01,epiweek,municipality,11.8043069839478,2012-07
@@ -16444,7 +16444,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1508100,Tucuruí,PA,ERA5-Land (Copernicus),precip_max,1,2011-01-02,epiweek,municipality,258.220550537109,2011-01
 1500107,Abaetetuba,PA,ERA5-Land (Copernicus),precip_max,52,2010-12-26,epiweek,municipality,22.2395992279053,2010-12
 1500800,Ananindeua,PA,ERA5-Land (Copernicus),precip_max,52,2010-12-26,epiweek,municipality,20.411937713623,2010-12
-1501105,Bagre,PA,ERA5-Land (Copernicus),precip_max,52,2010-12-26,epiweek,municipality,13.2209444046021,2010-12
+1501105,Bagre,PA,ERA5-Land (Copernicus),precip_max,52,2010-12-26,epiweek,municipality,13.220944404602,2010-12
 1501204,Baião,PA,ERA5-Land (Copernicus),precip_max,52,2010-12-26,epiweek,municipality,17.9873027801514,2010-12
 1501303,Barcarena,PA,ERA5-Land (Copernicus),precip_max,52,2010-12-26,epiweek,municipality,14.6166925430298,2010-12
 1501402,Belém,PA,ERA5-Land (Copernicus),precip_max,52,2010-12-26,epiweek,municipality,20.411937713623,2010-12
@@ -16606,7 +16606,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1504604,Mocajuba,PA,ERA5-Land (Copernicus),precip_max,45,2010-11-07,epiweek,municipality,6.19576454162598,2010-11
 1504703,Moju,PA,ERA5-Land (Copernicus),precip_max,45,2010-11-07,epiweek,municipality,10.8615236282349,2010-11
 1505064,Novo Repartimento,PA,ERA5-Land (Copernicus),precip_max,45,2010-11-07,epiweek,municipality,7.40764999389648,2010-11
-1505205,Oeiras do Pará,PA,ERA5-Land (Copernicus),precip_max,45,2010-11-07,epiweek,municipality,9.31132030487061,2010-11
+1505205,Oeiras do Pará,PA,ERA5-Land (Copernicus),precip_max,45,2010-11-07,epiweek,municipality,9.3113203048706,2010-11
 1506351,Santa Bárbara do Pará,PA,ERA5-Land (Copernicus),precip_max,45,2010-11-07,epiweek,municipality,9.15478515625,2010-11
 1507953,Tailândia,PA,ERA5-Land (Copernicus),precip_max,45,2010-11-07,epiweek,municipality,10.3010263442993,2010-11
 1508100,Tucuruí,PA,ERA5-Land (Copernicus),precip_max,45,2010-11-07,epiweek,municipality,6.88249969482422,2010-11
@@ -16742,7 +16742,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1501204,Baião,PA,ERA5-Land (Copernicus),precip_max,38,2010-09-19,epiweek,municipality,1.29341530799866,2010-09
 1501303,Barcarena,PA,ERA5-Land (Copernicus),precip_max,38,2010-09-19,epiweek,municipality,2.45908570289612,2010-09
 1501402,Belém,PA,ERA5-Land (Copernicus),precip_max,38,2010-09-19,epiweek,municipality,2.45908570289612,2010-09
-1501501,Benevides,PA,ERA5-Land (Copernicus),precip_max,38,2010-09-19,epiweek,municipality,1.51164579391479,2010-09
+1501501,Benevides,PA,ERA5-Land (Copernicus),precip_max,38,2010-09-19,epiweek,municipality,1.5116457939148,2010-09
 1501782,Breu Branco,PA,ERA5-Land (Copernicus),precip_max,38,2010-09-19,epiweek,municipality,0.484365373849869,2010-09
 1502103,Cametá,PA,ERA5-Land (Copernicus),precip_max,38,2010-09-19,epiweek,municipality,3.82701897621155,2010-09
 1503093,Goianésia do Pará,PA,ERA5-Land (Copernicus),precip_max,38,2010-09-19,epiweek,municipality,0.473719984292984,2010-09
@@ -16754,7 +16754,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1504703,Moju,PA,ERA5-Land (Copernicus),precip_max,38,2010-09-19,epiweek,municipality,3.1403911113739,2010-09
 1505064,Novo Repartimento,PA,ERA5-Land (Copernicus),precip_max,38,2010-09-19,epiweek,municipality,0.771791040897369,2010-09
 1505205,Oeiras do Pará,PA,ERA5-Land (Copernicus),precip_max,38,2010-09-19,epiweek,municipality,1.96939778327942,2010-09
-1506351,Santa Bárbara do Pará,PA,ERA5-Land (Copernicus),precip_max,38,2010-09-19,epiweek,municipality,1.51164579391479,2010-09
+1506351,Santa Bárbara do Pará,PA,ERA5-Land (Copernicus),precip_max,38,2010-09-19,epiweek,municipality,1.5116457939148,2010-09
 1507953,Tailândia,PA,ERA5-Land (Copernicus),precip_max,38,2010-09-19,epiweek,municipality,1.46374154090881,2010-09
 1508100,Tucuruí,PA,ERA5-Land (Copernicus),precip_max,38,2010-09-19,epiweek,municipality,0.495010763406754,2010-09
 1500107,Abaetetuba,PA,ERA5-Land (Copernicus),precip_max,37,2010-09-12,epiweek,municipality,3.30539441108704,2010-09
@@ -16804,7 +16804,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1501105,Bagre,PA,ERA5-Land (Copernicus),precip_max,35,2010-08-29,epiweek,municipality,1.96599400043488,2010-08
 1501204,Baião,PA,ERA5-Land (Copernicus),precip_max,35,2010-08-29,epiweek,municipality,1.70453178882599,2010-08
 1501303,Barcarena,PA,ERA5-Land (Copernicus),precip_max,35,2010-08-29,epiweek,municipality,2.84088635444641,2010-08
-1501402,Belém,PA,ERA5-Land (Copernicus),precip_max,35,2010-08-29,epiweek,municipality,2.49897432327271,2010-08
+1501402,Belém,PA,ERA5-Land (Copernicus),precip_max,35,2010-08-29,epiweek,municipality,2.4989743232727,2010-08
 1501501,Benevides,PA,ERA5-Land (Copernicus),precip_max,35,2010-08-29,epiweek,municipality,3.19788289070129,2010-08
 1501782,Breu Branco,PA,ERA5-Land (Copernicus),precip_max,35,2010-08-29,epiweek,municipality,0.904756903648376,2010-08
 1502103,Cametá,PA,ERA5-Land (Copernicus),precip_max,35,2010-08-29,epiweek,municipality,3.0068142414093,2010-08
@@ -16852,7 +16852,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1502103,Cametá,PA,ERA5-Land (Copernicus),precip_max,33,2010-08-15,epiweek,municipality,89.1736679077148,2010-08
 1503093,Goianésia do Pará,PA,ERA5-Land (Copernicus),precip_max,33,2010-08-15,epiweek,municipality,5.98345994949341,2010-08
 1503309,Igarapé-Miri,PA,ERA5-Land (Copernicus),precip_max,33,2010-08-15,epiweek,municipality,58.5474014282227,2010-08
-1503804,Jacundá,PA,ERA5-Land (Copernicus),precip_max,33,2010-08-15,epiweek,municipality,6.13933134078979,2010-08
+1503804,Jacundá,PA,ERA5-Land (Copernicus),precip_max,33,2010-08-15,epiweek,municipality,6.1393313407898,2010-08
 1504000,Limoeiro do Ajuru,PA,ERA5-Land (Copernicus),precip_max,33,2010-08-15,epiweek,municipality,19.8057556152344,2010-08
 1504422,Marituba,PA,ERA5-Land (Copernicus),precip_max,33,2010-08-15,epiweek,municipality,11.6250076293945,2010-08
 1504604,Mocajuba,PA,ERA5-Land (Copernicus),precip_max,33,2010-08-15,epiweek,municipality,98.8427352905273,2010-08
@@ -16920,7 +16920,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1504422,Marituba,PA,ERA5-Land (Copernicus),precip_max,30,2010-07-25,epiweek,municipality,5.75980615615845,2010-07
 1504604,Mocajuba,PA,ERA5-Land (Copernicus),precip_max,30,2010-07-25,epiweek,municipality,10.0494298934937,2010-07
 1504703,Moju,PA,ERA5-Land (Copernicus),precip_max,30,2010-07-25,epiweek,municipality,6.2944188117981,2010-07
-1505064,Novo Repartimento,PA,ERA5-Land (Copernicus),precip_max,30,2010-07-25,epiweek,municipality,5.12336397171021,2010-07
+1505064,Novo Repartimento,PA,ERA5-Land (Copernicus),precip_max,30,2010-07-25,epiweek,municipality,5.1233639717102,2010-07
 1505205,Oeiras do Pará,PA,ERA5-Land (Copernicus),precip_max,30,2010-07-25,epiweek,municipality,9.33661365509033,2010-07
 1506351,Santa Bárbara do Pará,PA,ERA5-Land (Copernicus),precip_max,30,2010-07-25,epiweek,municipality,9.27933502197266,2010-07
 1507953,Tailândia,PA,ERA5-Land (Copernicus),precip_max,30,2010-07-25,epiweek,municipality,4.74786233901978,2010-07
@@ -16937,7 +16937,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1503093,Goianésia do Pará,PA,ERA5-Land (Copernicus),precip_max,29,2010-07-18,epiweek,municipality,17.2475967407227,2010-07
 1503309,Igarapé-Miri,PA,ERA5-Land (Copernicus),precip_max,29,2010-07-18,epiweek,municipality,18.1768035888672,2010-07
 1503804,Jacundá,PA,ERA5-Land (Copernicus),precip_max,29,2010-07-18,epiweek,municipality,14.2499513626099,2010-07
-1504000,Limoeiro do Ajuru,PA,ERA5-Land (Copernicus),precip_max,29,2010-07-18,epiweek,municipality,9.74393749237061,2010-07
+1504000,Limoeiro do Ajuru,PA,ERA5-Land (Copernicus),precip_max,29,2010-07-18,epiweek,municipality,9.7439374923706,2010-07
 1504422,Marituba,PA,ERA5-Land (Copernicus),precip_max,29,2010-07-18,epiweek,municipality,27.8316402435303,2010-07
 1504604,Mocajuba,PA,ERA5-Land (Copernicus),precip_max,29,2010-07-18,epiweek,municipality,21.0153388977051,2010-07
 1504703,Moju,PA,ERA5-Land (Copernicus),precip_max,29,2010-07-18,epiweek,municipality,27.8761901855469,2010-07
@@ -16971,7 +16971,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1500800,Ananindeua,PA,ERA5-Land (Copernicus),precip_max,27,2010-07-04,epiweek,municipality,15.8156003952026,2010-07
 1501105,Bagre,PA,ERA5-Land (Copernicus),precip_max,27,2010-07-04,epiweek,municipality,19.5133323669434,2010-07
 1501204,Baião,PA,ERA5-Land (Copernicus),precip_max,27,2010-07-04,epiweek,municipality,5.80435752868652,2010-07
-1501303,Barcarena,PA,ERA5-Land (Copernicus),precip_max,27,2010-07-04,epiweek,municipality,12.6015653610229,2010-07
+1501303,Barcarena,PA,ERA5-Land (Copernicus),precip_max,27,2010-07-04,epiweek,municipality,12.601565361023,2010-07
 1501402,Belém,PA,ERA5-Land (Copernicus),precip_max,27,2010-07-04,epiweek,municipality,15.8156003952026,2010-07
 1501501,Benevides,PA,ERA5-Land (Copernicus),precip_max,27,2010-07-04,epiweek,municipality,15.8156003952026,2010-07
 1501782,Breu Branco,PA,ERA5-Land (Copernicus),precip_max,27,2010-07-04,epiweek,municipality,1.14559686183929,2010-07
@@ -17339,7 +17339,7 @@ cod_mun,name_mun,uf_mun,data_source,name_indicator,epiweek_number,epiweek_start_
 1504000,Limoeiro do Ajuru,PA,ERA5-Land (Copernicus),precip_max,10,2010-03-07,epiweek,municipality,2.27665424346924,2010-03
 1504422,Marituba,PA,ERA5-Land (Copernicus),precip_max,10,2010-03-07,epiweek,municipality,3.66423153877258,2010-03
 1504604,Mocajuba,PA,ERA5-Land (Copernicus),precip_max,10,2010-03-07,epiweek,municipality,2.66209244728088,2010-03
-1504703,Moju,PA,ERA5-Land (Copernicus),precip_max,10,2010-03-07,epiweek,municipality,4.38371610641479,2010-03
+1504703,Moju,PA,ERA5-Land (Copernicus),precip_max,10,2010-03-07,epiweek,municipality,4.3837161064148,2010-03
 1505064,Novo Repartimento,PA,ERA5-Land (Copernicus),precip_max,10,2010-03-07,epiweek,municipality,9.16314888000488,2010-03
 1505205,Oeiras do Pará,PA,ERA5-Land (Copernicus),precip_max,10,2010-03-07,epiweek,municipality,2.31262850761414,2010-03
 1506351,Santa Bárbara do Pará,PA,ERA5-Land (Copernicus),precip_max,10,2010-03-07,epiweek,municipality,4.73318004608154,2010-03
