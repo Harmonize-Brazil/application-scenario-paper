@@ -1,3 +1,5 @@
+## Download climate data from the HARMONIZE STAC in R
+
 # Install packages:
 # install.packages(c("sf", "rstac", "dplyr"))
 
