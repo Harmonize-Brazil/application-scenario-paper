@@ -1,0 +1,19 @@
+# Virtual environment
+env/
+.venv/
+venv/
+
+# Environment variables (if used)
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
