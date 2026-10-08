@@ -15,7 +15,7 @@ Medium-resolution Sentinel-2 satellite imagery and high-resolution RGB drone ima
 The images presented in Figure 8 are available for download at the following links:
 
 
-SSentinel-2 16-day composite (S2-16D V2), provided by the Brazil Data Cube (BDC/INPE):
+Sentinel-2 16-day composite (S2-16D V2), provided by the Brazil Data Cube (BDC/INPE):
 
 Band B02 (Blue): https://data.inpe.br/bdc/data/s2-16d/v2/027/008/2023/10/16/S2-16D_V2_027008_20231016_B02.tif
 
